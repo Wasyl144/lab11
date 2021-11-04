@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab11</string>
+    <string name="button_text">Get info</string>
+    <string name="dot">.</string>
+</resources>
